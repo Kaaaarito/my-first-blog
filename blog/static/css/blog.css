@@ -44,3 +44,11 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+
+.btn-default {
+    float: right;
+}
+
+.post h2 {
+    margin-top: 0; /* Esto ayuda a que el título se alinee con el botón */
+}
